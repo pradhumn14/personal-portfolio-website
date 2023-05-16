@@ -6,10 +6,8 @@
     --header-height: 3rem;
 
     /* colors */
-    /* 257 214 anyone */
 
-    /* purple-250, green-142, blue-230, pink-340 */
-    --heu-color: 257;
+    --heu-color: 230;
 
     /* hsl color */
     --first-color: hsl(var(--heu-color), 69%, 61%);
